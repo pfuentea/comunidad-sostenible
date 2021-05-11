@@ -1,0 +1,107 @@
+/* Inserta tu codigo aqui */
+nav{
+    float: left;
+    margin-top: 10px;
+    width: 750px;
+}
+nav li{
+    float: left;
+    list-style: none outside none;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: auto;
+    color: #9B9A9A;
+    font-weight: bold;
+}
+
+nav li:not(:last-child) {
+    border-right: 1px solid #9B9A9A;
+
+}
+
+nav li .bor{
+    border-right: 1px solid #ffffff !important;
+}
+
+#eco_logo{
+    width: 100px;    
+}
+
+#semilla{
+    height: 400px;
+    background-image: url("../img/semilla.jpg");
+}
+
+#metodo1{
+    height: 400px;
+    background-image: url("../img/metodo.JPG");
+}
+
+#metodo2{
+    height: 400px;
+    background-image: url("../img/fondo.jpg");
+}
+
+
+#proy1{
+    height: 300px;
+    background-image: url("../img/fotos/img-0352.JPG");
+}
+
+
+#proy2{
+    height: 300px;
+    background-image: url("../img/fotos/img-9246.JPG");
+}
+
+#eq1{
+    background-image: url("../img/fotos/equipo2.jpg");
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+#eq2{
+    background-image: url("../img/fotos/equipo3.jpg");
+    height: 250px;
+    width: 250px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.icon{
+    width: 30px;
+    height: 30px;
+    margin: 4px;
+}
+
+.icon2{
+    width: 40px;
+    height: 40px;
+    margin: 4px;
+    float: right;
+}
+
+#blog{
+    height: 550px;
+    background-image: url("../img/fondo2.jpg");
+}
+
+.img_blog{
+    width: 250px;
+    height: auto;
+}
+
+.social{
+    height: 200px;
+    border: 1px solid #ffffff;
+    padding: 10px;
+}
+
+.pie {
+    height: 200px;
+
+}
