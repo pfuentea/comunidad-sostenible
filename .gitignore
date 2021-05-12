@@ -1,0 +1,4 @@
+secreto.txt
+packages/
+*.txt
+log*
